@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me @beabzk on Twitter
+- 📫 How to reach me? @beabzk on Twitter
 
 <!---
 beabzk/beabzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
