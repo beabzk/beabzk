@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beabzk
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python
 <!-- - 💞️ I’m looking to collaborate on Nothing -->
 - 📫 How to reach me? [@beabzk](https://twitter.com/beabzk/) on Twitter
 
