@@ -5,6 +5,11 @@
 - 📫 How to reach me? [@beabzk](https://twitter.com/beabzk/) on Twitter
 
 ---
+## Stats
+![Github Stats](https://github-readme-stats-n189l28dw-beabzk.vercel.app/api?username=beabzk&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats-n189l28dw-beabzk.vercel.app/api/top-langs?username=beabzk&theme=dracula&layout=compact)
+
+---
 
 _“And God said, Let there be light: and there was light.” — Genesis 1:3_
 
