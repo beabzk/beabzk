@@ -1,19 +1,53 @@
-- 👋 Hi, I’m @beabzk
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python
-<!-- - 💞️ I’m looking to collaborate on Nothing -->
-- 📫 How to reach me? [@beabzk](https://twitter.com/beabzk/) on Twitter
+<div align="center">
+  <img height="150" src="https://avatars.githubusercontent.com/u/92110044"  />
+</div>
 
----
-## Stats
-![Github Stats (Refreshing may fix if you are seeing this)](https://github-readme-stats-n189l28dw-beabzk.vercel.app/api?username=beabzk&show_icons=true&theme=dracula)
-![Top Languages](https://github-readme-stats-n189l28dw-beabzk.vercel.app/api/top-langs?username=beabzk&theme=dracula&layout=compact)
+###
 
----
+<div align="center">
+  <a href="https://x.com/beabzk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="https://linktr.ee/beabzk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+  <a href="https://t.me/beabzk" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
+</div>
 
-_“And God said, Let there be light: and there was light.” — Genesis 1:3_
+###
 
-<!---
-beabzk/beabzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=beabzk.beabzk&right_color=black"  />
+</div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Beabfekad<br><br>- 🔭 I’m a student at AAU<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I like to watch movies and discover new things</p>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=beabzk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=beabzk's stats" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=beabzk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=beabzk&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<p align="left">“And God said, Let there be light: and there was light.” — Genesis 1:3</p>
+
+###
