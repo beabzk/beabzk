@@ -50,6 +50,15 @@
 ###
 
 <hr>
+
+<div align="center">
+  
+![spotify recent tracks](https://spotify-recently-played-readme.vercel.app/api?user=31wpk4rq3k3t6qkzvw76adj6eiia)
+
+</div>
+
+<hr>
+
 <p align="right">“And God said, Let there be light: and there was light.” — Genesis 1:3</p>
 
 ###
