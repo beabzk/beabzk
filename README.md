@@ -34,6 +34,8 @@
 
 <p align="left">I'm Beabfekad<br><br>- 🔭 I’m a student at AAU<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I like to watch movies and discover new things</p>
 
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/653e4625602c6661a5744db2?variant=dark" alt="roadmap.sh"/></a>
+
 ###
 
 <hr>
