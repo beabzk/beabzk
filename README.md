@@ -28,8 +28,8 @@
 
 ###
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/653e4625602c6661a5744db2?variant=dark" alt="roadmap.sh"/></a>
 
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/653e4625602c6661a5744db2?variant=dark" alt="roadmap.sh"/></a>
 
 ###
 
