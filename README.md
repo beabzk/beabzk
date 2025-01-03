@@ -28,13 +28,7 @@
 
 ###
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/653e4625602c6661a5744db2?variant=dark" alt="roadmap.sh"/></a>
-
-
-###
-
 <hr>
-<h3 align="left">My Stats:</h3>
 
 ###
 
@@ -45,14 +39,6 @@
 </div>
 
 ###
-
-<hr>
-
-<div align="center">
-  
-![spotify recent tracks](https://spotify-recently-played-readme.vercel.app/api?user=31wpk4rq3k3t6qkzvw76adj6eiia)
-
-</div>
 
 <hr>
 
